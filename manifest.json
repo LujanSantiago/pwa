@@ -1,6 +1,6 @@
 {
-  "name": "Dev'Coffee",
-  "short_name": "DevCoffee",
+  "name": "Cancion Favorita",
+  "short_name": "song",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
