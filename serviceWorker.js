@@ -1,4 +1,4 @@
-const staticDevCoffee = "dev-coffee-site-v1";
+const staticDevCoffee = "Cancionfavorita-v1.0";
 const assets = [
   "/",
   "/index.html",
